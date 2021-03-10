@@ -1,0 +1,2 @@
+# Automatic-irrigation-system-with-notification-to-the-farmer
+The project is realized using proteus professional 8 . The system includes the Arduino  board, soil moisture sensor which used to measure the soil moisture content, ultrasonic sensor(used to measure the level of water inside the tank)  module(used to send text messages to the farmer whenever the pump changes its status), LCD(used to display the level of water and moisture content together with the pump status) and two pumps (one for watering the plants and the second one for supplying water to the tank)
